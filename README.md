@@ -25,6 +25,9 @@ As	 características que	 é	 relevante	 conhecer	 acerca	 de	 cada	 planeta	 s�
 
 Um	 trajeto é	 caracterizado	 por uma	 sequência	 de	 informações acerca	 dos planetas que	compõem	o	trajeto.	A	ordem	pela	qual os	planetas	estão	descritos	no	 trajeto	é	importante,	pois	define	a	ordem	pela	qual	vão	ser	visitados.
 
-<hr>
+#### **Run it on terminal or open the code and test it** 
+```bash
+java src/PCOFase1.java
+```
 
 
