@@ -22,6 +22,7 @@ O	seu	grupo	de	amigos	já	pesquisou	e	colectou	informação	sobre	os	planetas	qu
 Tu ficas encarregado	 de	 construir	 um	 programa  que,  dado	 um	trajeto que	percorre	vários	planetas,	verifique	se	esse	trajeto tem	uma	dada	propriedade. <br>
 
 As	 características que	 é	 relevante	 conhecer	 acerca	 de	 cada	 planeta	 são	representadas	 por	 termos sugestivos;	 por	 exemplo,	 canBreathe,	 hasLight,	canWalk,	canRefuel,	hasFood,	niceSights,	hasWater,	niceWeather,	isFriendly,	etc.<br>
+
 Um	 trajeto é	 caracterizado	 por uma	 sequência	 de	 informações acerca	 dos planetas que	compõem	o	trajeto.	A	ordem	pela	qual os	planetas	estão	descritos	no	 trajeto	é	importante,	pois	define	a	ordem	pela	qual	vão	ser	visitados.
 
 <hr>
