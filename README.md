@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img2.gratispng.com/20181111/lvr/kisspng-analytics-computer-icons-data-analysis-data-scienc-expertise-fuzion-analytics-5be890d2ca5ab6.4264525715419680828289.jpg" alt="Logo" width="80" height="80">
+    <img src="https://img2.gratispng.com/20180330/peq/kisspng-earth-the-nine-planets-solar-system-saturn-solar-5abe6a3daf2807.3830017515224284777175.jpg" alt="Logo" width="80" height="80">
 </p>
 
 # <h1 align="center">Sistema Solar</h3>
