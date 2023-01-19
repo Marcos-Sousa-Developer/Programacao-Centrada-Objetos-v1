@@ -8,7 +8,7 @@
 <hr>
 
 # Objetivo
-Nesta	primeira	fase	do	projeto vão	exercitar	as	seguintes	matérias	lecionadas	em	PCO:	 declaração	 de	 variáveis,	 atribuição	 de valores	 a	 variáveis,	 expressões,	abstração	procedimental	(definição	de	métodos static e	sua	invocação),	comandos	condicionais, ciclos e utilização	dos tipos de	dados	não	primitivos	String e array.
+Nesta	primeira	fase	do	projeto é exercitado	as	seguintes	matérias	lecionadas	em	PCO:	 declaração	 de	 variáveis,	 atribuição	 de valores	 a	 variáveis,	 expressões,	abstração	procedimental	(definição	de	métodos static e	sua	invocação),	comandos	condicionais, ciclos e utilização	dos tipos de	dados	não	primitivos	String e array.
 
 ## Descrição	do	contexto	onde	se	enquadra	o	objetivo	deste	trabalho 
 O	seu planeta – HomeSweetHome – pertence	a	um	sistema	solar	muito	“populoso”,	onde	 existem	 mais	 de	 20.000	 planetas	 facilmente alcançáveis	 com	 a	 sua	 nave	MegaSpeed	X3	Turbo. <br>
