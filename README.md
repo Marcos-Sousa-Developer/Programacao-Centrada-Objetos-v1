@@ -2,8 +2,8 @@
     <img src="https://img2.gratispng.com/20180330/peq/kisspng-earth-the-nine-planets-solar-system-saturn-solar-5abe6a3daf2807.3830017515224284777175.jpg" alt="Logo" width="80" height="80">
 </p>
 
-# <h1 align="center">Sistema Solar</h3>
-<h4 align="center">Projeto para a cadeira de Programação Centrada a Objetos (Parte1) (2021/2022)</h5>
+# <h1 align="center">Sistema Solar</h1>
+<h4 align="center">Projeto para a cadeira de Programação Centrada a Objetos (Parte1) (2021/2022)</h4>
 
 <hr>
 
